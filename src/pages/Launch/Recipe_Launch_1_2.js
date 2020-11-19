@@ -80,7 +80,7 @@ function Recipe_Launch_1_2(props) {
 
                 </div>
 
-                <DelayLink delay={2000} to="../../" replace={false}><div className="Button" onClick={() => {setIsShow(true); setTimeout(() => {setIsShow(false);},1500)}}> Старт </div></DelayLink>
+                <DelayLink delay={2020} to="../../" replace={false}><div className="Button" onClick={() => {setIsShow(true); setTimeout(() => {setIsShow(false);},1500)}}> Старт </div></DelayLink>
 
             </div>
         </div>

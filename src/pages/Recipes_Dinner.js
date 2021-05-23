@@ -25,7 +25,7 @@ function Recipes_Dinner(props) {
                                 <Link to="./Dinner/Recipe_Dinner_1">
                                     <div className="ItemCircle" style={imageItem1}>
                                         <div className="ItemName">
-                                            {props.name1}
+                                            {props.name2}
                                         </div>
                                     </div>
                                 </Link>
